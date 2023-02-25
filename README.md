@@ -1,6 +1,8 @@
 <h1 align="center">Ransomware em Python</h1>
 Este repositório contém um Ransomware escrito em Python, que é capaz de criptografar arquivos de um sistema operacional. Projeto desenvolvido no curso de Cyber Security da DIO.
 
+<br><br>
+
 ## Pré-requisitos
 Para executar este ransomware, é necessário ter a biblioteca pyaes instalada em seu sistema. Você pode instalar essa biblioteca usando o gerenciador de pacotes pip com o seguinte comando:
 
@@ -8,7 +10,7 @@ Para executar este ransomware, é necessário ter a biblioteca pyaes instalada e
 pip install pyaes
 ~~~
 
-<div><div>
+<br>
 
 ## Como usar
 1. Baixe o projeto e salve-o em uma pasta em seu computador.
